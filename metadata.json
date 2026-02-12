@@ -1,0 +1,6 @@
+
+{
+  "name": "Neorix AI",
+  "description": "A futuristic 3D-styled AI interface powered by Gemini, founded by Jamoliddin Kamoliddinov.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
